@@ -125,8 +125,8 @@
 }
 .About img {
 	max-width: 25vw;
-  	filter: drop-shadow(1rem 1rem 1rem rgba(255, 255, 255, .5));
-	-webkit-filter: drop-shadow(1rem 1rem 1rem rgba(255, 255, 255, .5));
+  	filter: drop-shadow(1rem 1rem 1rem rgba(0,0,0, .5));
+	-webkit-filter: drop-shadow(1rem 1rem 1rem rgba(0,0,0, .5));
 }
 .header_text {
 	display: flex;
